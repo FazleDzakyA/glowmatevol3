@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart'; // ✅ IMPORT FLUTTER DOTENV
 
 // ✅ 1. IMPORT FILE CONFIG INI (Hasil dari flutterfire configure)
 import 'firebase_options.dart'; 
@@ -24,6 +25,12 @@ void main() async {
   // ✅ 3. BUAT INSTANCE AUTHCONTROLLER & INIT DATA USER
   final authController = AuthController();
   await authController.init(); // Memuat data user dari Local Storage jika ada
+
+  try {
+    await dotenv.load(fileName: ".env");
+  } catch (e) {
+    print("File .env tidak ditemukan (mungkin di environment CI/CD). Menggunakan Env Var sistem.");
+  }
 
   runApp(MyApp(authController: authController));
 }
