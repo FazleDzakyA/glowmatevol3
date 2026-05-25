@@ -45,6 +45,7 @@ app.*.map.json
 
 # 🔥 FILE SENSITIF — JANGAN COMMIT!
 .env
+firebase_options.dart
 **/*.key
 **/*.pem
 **/*.jks
