@@ -64,6 +64,4 @@ flutter:
   # ✅ PASTIKAN FOLDER-FOLEDER INI ADA DI ROOT PROJECT
   assets:
     - assets/icons/ # Wajib ada file glowmate_icon.png di sini
-    - assets/images/ # Bisa kosong dulu jika belum ada gambar
-    - assets/animations/ # Bisa kosong dulu jika belum ada animasi
-    - assets/data/ # Bisa kosong dulu
+
