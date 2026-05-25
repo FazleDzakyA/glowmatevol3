@@ -1,0 +1,768 @@
+{
+  "responses": [
+    {
+      "keywords": [
+        "sunscreen",
+        "spf",
+        "tabir surya",
+        "pelindung sinar"
+      ],
+      "title": "Kenapa Harus Pakai Sunscreen?",
+      "response": "Sunscreen melindungi kulit dari sinar UVA dan UVB yang bisa menyebabkan penuaan dini, hiperpigmentasi, dan bahkan kanker kulit.",
+      "source": "TED-Ed",
+      "tips": [
+        "Gunakan sunscreen dengan SPF minimal 30",
+        "Aplikasi 15 menit sebelum keluar rumah",
+        "Re-apply setiap 2-3 jam jika beraktivitas di luar ruangan"
+      ],
+      "youtube_link": "https://youtu.be/ZSJITdsTze0?si=2TfN2I2FHzqywB1i"
+    },
+    {
+      "keywords": [
+        "jerawat",
+        "acne",
+        "berjerawat",
+        "pimples"
+      ],
+      "title": "Cara Mengatasi Jerawat",
+      "response": "Jerawat disebabkan oleh penyumbatan pori, bakteri, dan peradangan. Gunakan produk yang mengandung benzoyl peroxide atau salicylic acid.",
+      "source": "Saddam Ismail",
+      "tips": [
+        "Jangan memencet jerawat",
+        "Gunakan spot treatment",
+        "Hindari produk berbasis minyak"
+      ],
+      "youtube_link": "https://youtu.be/cn7Cv3VO35c?si=7Vb0E2kYlhHO5cIe"
+    },
+    {
+      "keywords": [
+        "kulit kering",
+        "kering",
+        "dehidrasi",
+        "kurus"
+      ],
+      "title": "Perawatan Kulit Kering",
+      "response": "Kulit kering kehilangan kelembapan. Gunakan moisturizer yang mengandung hyaluronic acid dan ceramide untuk mengunci kelembapan.",
+      "source": "Dr. Aanchal MD",
+      "tips": [
+        "Gunakan humidifier di kamar",
+        "Minum air minimal 8 gelas/hari",
+        "Hindari air panas saat mandi"
+      ],
+      "youtube_link": "https://youtu.be/4TT59iXcamw?si=vZ1RP3ozi0YoT1tv"
+    },
+    {
+      "keywords": [
+        "kulit berminyak",
+        "minyak",
+        "berminyak",
+        "oily"
+      ],
+      "title": "Perawatan Kulit Berminyak",
+      "response": "Kulit berminyak rentan terhadap jerawat. Gunakan cleanser berbasis salicylic acid dan moisturizer bertekstur ringan (oil-free).",
+      "source": "dr. Valentino",
+      "tips": [
+        "Jangan over-wash (cukup 2x sehari)",
+        "Gunakan toner untuk mengontrol minyak",
+        "Pilih produk non-comedogenic"
+      ],
+      "youtube_link": "https://youtu.be/QrZkVUu_P-A?si=snEN31W8KF9mYDLl"
+    },
+    {
+      "keywords": [
+        "vitamin c",
+        "vit c",
+        "serum vit c",
+        "antioksidan"
+      ],
+      "title": "Manfaat Vitamin C untuk Kulit",
+      "response": "Vitamin C adalah antioksidan yang membantu mencerahkan kulit, mengurangi hiperpigmentasi, dan merangsang produksi kolagen.",
+      "source": "eBright Skin",
+      "tips": [
+        "Gunakan di pagi hari",
+        "Selalu gunakan sunscreen setelahnya",
+        "Simpan dalam wadah gelap dan dingin"
+      ],
+      "youtube_link": "https://youtu.be/-OxJVvR0bp8?si=h2s8SvAvFlhv5Mf8"
+    },
+    {
+      "keywords": [
+        "niacinamide",
+        "niasinamida",
+        "niacin",
+        "brightening"
+      ],
+      "title": "Kegunaan Niacinamide",
+      "response": "Niacinamide membantu mengurangi pori-pori, mengontrol minyak, dan mencerahkan kulit tanpa mengiritasi.",
+      "source": "Alodokter",
+      "tips": [
+        "Bisa digunakan pagi atau malam",
+        "Cocok untuk kulit sensitif",
+        "Bisa dikombinasikan dengan vitamin C"
+      ],
+      "youtube_link": "https://youtu.be/WI-cptItjtc?si=4sa2VAJYIXJUQtcm"
+    },
+    {
+      "keywords": [
+        "hyaluronic acid",
+        "ha",
+        "asam hialuronat",
+        "melembapkan"
+      ],
+      "title": "Manfaat Hyaluronic Acid",
+      "response": "Hyaluronic acid mampu menahan hingga 1000x beratnya dalam air, membuat kulit terasa lembap dan kenyal.",
+      "source": "Silvy",
+      "tips": [
+        "Gunakan saat kulit masih lembap",
+        "Aplikasikan sebelum moisturizer",
+        "Bisa digunakan semua jenis kulit"
+      ],
+      "youtube_link": "https://youtu.be/aSOSlW2XFzI?si=VIR6n4HGv1Jo2hwQ"
+    },
+    {
+      "keywords": [
+        "retinol",
+        "retinoid",
+        "anti aging",
+        "anti-aging"
+      ],
+      "title": "Cara Menggunakan Retinol",
+      "response": "Retinol adalah turunan vitamin A yang membantu regenerasi kulit, mengurangi garis halus, dan mencegah penuaan dini.",
+      "source": "Dokter Richard YL",
+      "tips": [
+        "Gunakan hanya di malam hari",
+        "Awali dengan frekuensi 2x seminggu",
+        "Gunakan sunscreen pagi hari"
+      ],
+      "youtube_link": "https://youtu.be/kBUqQQhewTg?si=06iFHV1ms0Velo02"
+    },
+    {
+      "keywords": [
+        "cleansing",
+        "face wash",
+        "facial wash",
+        "membersihkan wajah"
+      ],
+      "title": "Cara Membersihkan Wajah yang Benar",
+      "response": "Pembersihan wajah adalah langkah pertama dalam rutinitas skincare. Gunakan cleanser sesuai jenis kulit.",
+      "source": "dr.Valentino",
+      "tips": [
+        "Cuci tangan dulu sebelum membersihkan wajah",
+        "Gunakan air hangat, bukan panas",
+        "Jangan gosok terlalu keras"
+      ],
+      "youtube_link": "https://youtu.be/z2YfZJcFb0g?si=9970hR_g5vpakLxa"
+    },
+    {
+      "keywords": [
+        "toner",
+        "penyegar",
+        "skincare step"
+      ],
+      "title": "Fungsi Toner dalam Rutinitas",
+      "response": "Toner membantu menyeimbangkan pH kulit, mengangkat sisa kotoran, dan mempersiapkan kulit untuk produk selanjutnya.",
+      "source": "Dr. Scott Walter MD",
+      "tips": [
+        "Gunakan dengan tangan atau kapas",
+        "Pilih toner tanpa alkohol",
+        "Gunakan setelah cleanser"
+      ],
+      "youtube_link": "https://youtube.com/shorts/JwJ74n2voaI?si=8LEfMYsQu8L51N53"
+    },
+    {
+      "keywords": [
+        "moisturizer",
+        "pelembap",
+        "melembabkan",
+        "hydrating"
+      ],
+      "title": "Kenapa Harus Pakai Moisturizer?",
+      "response": "Moisturizer membantu mengunci kelembapan dan menjaga skin barrier agar tetap sehat dan kuat.",
+      "source": "SKWAD Beauty",
+      "tips": [
+        "Gunakan setelah toner dan serum",
+        "Pilih tekstur sesuai jenis kulit",
+        "Aplikasikan saat kulit masih lembap"
+      ],
+      "youtube_link": "https://youtu.be/VOWwomFj_jA?si=j8EbI5AY0qvxZmlC"
+    },
+    {
+      "keywords": [
+        "scrub",
+        "scrub wajah",
+        "exfoliate",
+        "pengelupasan"
+      ],
+      "title": "Cara Menggunakan Scrub Wajah",
+      "response": "Scrub membantu mengangkat sel kulit mati. Namun, jangan digunakan terlalu sering agar tidak merusak skin barrier.",
+      "source": "Fariz Gamal",
+      "tips": [
+        "Gunakan 1-2x seminggu",
+        "Hindari area mata",
+        "Jangan digunakan saat jerawat aktif"
+      ],
+      "youtube_link": "https://youtu.be/pjkMH3mpcbc?si=aVJCPFY3ojQZp6sN"
+    },
+    {
+      "keywords": [
+        "masker",
+        "face mask",
+        "clay mask",
+        "sheet mask"
+      ],
+      "title": "Jenis dan Manfaat Masker Wajah",
+      "response": "Masker membantu memberikan nutrisi tambahan atau menyerap minyak berlebih, tergantung jenisnya.",
+      "source": "Pricebook Beauty",
+      "tips": [
+        "Gunakan 1-2x seminggu",
+        "Pilih masker sesuai kebutuhan kulit",
+        "Jangan biarkan kering total (kecuali clay mask)"
+      ],
+      "youtube_link": "https://youtu.be/DsVPSvrAEok?si=ePKWMHWg5iA_JWbk"
+    },
+    {
+      "keywords": [
+        "dark spot",
+        "noda hitam",
+        "hiperpigmentasi",
+        "flek"
+      ],
+      "title": "Cara Menghilangkan Dark Spot",
+      "response": "Dark spot bisa disebabkan oleh jerawat, sinar matahari, atau hormon. Gunakan produk dengan vitamin C, AHA/BHA, atau retinol.",
+      "source": "Dermatologic Therapy",
+      "tips": [
+        "Gunakan sunscreen setiap hari",
+        "Coba serum dengan niacinamide",
+        "Konsultasi ke dermatolog jika tidak membaik"
+      ],
+      "youtube_link": "https://youtu.be/ad6hIYL9Nx8?si=A6SYG6Y7hfzcmwfJ"
+    },
+    {
+      "keywords": [
+        "pori",
+        "pore",
+        "open pores",
+        "large pores"
+      ],
+      "title": "Cara Mengecilkan Pori-pori",
+      "response": "Pori tidak bisa hilang sepenuhnya, tapi bisa terlihat lebih kecil dengan perawatan rutin dan pengelupasan.",
+      "source": "Dermatology Archives",
+      "tips": [
+        "Gunakan clay mask 1-2x seminggu",
+        "Jaga kelembapan kulit",
+        "Gunakan retinol untuk regenerasi"
+      ],
+      "youtube_link": "https://www.youtube.com/watch?v=example_pori"
+    },
+    {
+      "keywords": [
+        "kulit sensitif",
+        "sensitif",
+        "iritasi",
+        "reaksi"
+      ],
+      "title": "Perawatan Kulit Sensitif",
+      "response": "Kulit sensitif mudah bereaksi terhadap produk. Gunakan produk dengan formula minimal dan bebas alkohol.",
+      "source": "dr.Kamilah Jaidi, MARS, Dipl. AAAM",
+      "tips": [
+        "Lakukan patch test dulu",
+        "Gunakan produk berlabel 'fragrance-free'",
+        "Hindari eksfoliasi yang keras"
+      ],
+      "youtube_link": "https://www.youtube.com/watch?v=example_sensitif"
+    },
+    {
+      "keywords": [
+        "serum",
+        "essence",
+        "treatment",
+        "produk perawatan"
+      ],
+      "title": "Fungsi Serum dalam Rutinitas",
+      "response": "Serum mengandung konsentrasi tinggi bahan aktif untuk menangani masalah kulit seperti jerawat, penuaan, atau hiperpigmentasi.",
+      "source": "KONTAN TV",
+      "tips": [
+        "Gunakan setelah toner",
+        "Aplikasikan sebelum moisturizer",
+        "Gunakan 2-3 tetes cukup"
+      ],
+      "youtube_link": "https://youtu.be/IIz8bG0Od0g?si=nS27wcfI4uDf0R2R"
+    },
+    {
+      "keywords": [
+        "double cleanse",
+        "cleansing oil",
+        "micellar water",
+        "2x cuci muka"
+      ],
+      "title": "Apa Itu Double Cleansing?",
+      "response": "Double cleansing adalah metode membersihkan wajah dua kali: pertama dengan oil-based cleanser, lalu dengan water-based cleanser.",
+      "source": "Careskin Media",
+      "tips": [
+        "Gunakan di malam hari",
+        "Cocok untuk yang pakai makeup",
+        "Jangan digunakan jika kulit kering berlebihan"
+      ],
+      "youtube_link": "https://youtu.be/Hx1Owr2Djnc?si=To3qHKhQo5YPg_Ig"
+    },
+    {
+      "keywords": [
+        "kandungan berbahaya",
+        "paraben",
+        "sulfat",
+        "formaldehida"
+      ],
+      "title": "Kandungan Berbahaya dalam Skincare",
+      "response": "Beberapa bahan seperti paraben, sulfat, dan formaldehida bisa menyebabkan iritasi atau reaksi alergi pada kulit sensitif.",
+      "source": "SKWAD Beauty",
+      "tips": [
+        "Baca label produk sebelum beli",
+        "Hindari produk dengan bau menyengat",
+        "Pilih produk dermatologist-tested"
+      ],
+      "youtube_link": "https://youtu.be/lPlDwC70qYQ?si=3r0jQP_x-n1Rh4Nl"
+    },
+    {
+      "keywords": [
+        "routine pagi",
+        "morning routine",
+        "skincare pagi",
+        "am routine"
+      ],
+      "title": "Rutinitas Skincare Pagi",
+      "response": "Rutinitas pagi fokus pada perlindungan dan persiapan kulit menghadapi polusi dan sinar matahari.",
+      "source": "Ester Wijaya",
+      "tips": [
+        "Cleanser > Toner > Serum > Moisturizer > Sunscreen",
+        "Gunakan sunscreen sebagai langkah terakhir",
+        "Jangan skip sunscreen"
+      ],
+      "youtube_link": "https://youtu.be/JLMJfpffy_c?si=nuPAueH7H5p_1e5F"
+    },
+    {
+      "keywords": [
+        "routine malam",
+        "night routine",
+        "skincare malam",
+        "pm routine"
+      ],
+      "title": "Rutinitas Skincare Malam",
+      "response": "Rutinitas malam fokus pada perbaikan dan regenerasi kulit. Bahan aktif seperti retinol atau AHA/BHA digunakan di malam hari.",
+      "source": "Ester Wijaya",
+      "tips": [
+        "Double cleanse jika pakai makeup",
+        "Gunakan treatment (retinol, AHA/BHA)",
+        "Akhiri dengan moisturizer"
+      ],
+      "youtube_link": "https://youtu.be/JLMJfpffy_c?si=nuPAueH7H5p_1e5F"
+    },
+    {
+      "keywords": [
+        "vitamin e",
+        "antioksidan",
+        "moisturizer",
+        "collagen"
+      ],
+      "title": "Manfaat Vitamin E untuk Kulit",
+      "response": "Vitamin E adalah antioksidan yang membantu melembapkan kulit, melindungi dari radikal bebas, dan mendukung regenerasi.",
+      "source": "Dr Dray",
+      "tips": [
+        "Bisa digunakan pagi atau malam",
+        "Cocok dikombinasikan dengan vitamin C",
+        "Efektif untuk kulit kering"
+      ],
+      "youtube_link": "https://youtu.be/l8H4s19bO74?si=BNbCGlHIzSu2prnk"
+    },
+    {
+      "keywords": [
+        "cica",
+        "centella asiatica",
+        "calming",
+        "soothing"
+      ],
+      "title": "Kegunaan Centella Asiatica (Cica)",
+      "response": "Cica membantu menenangkan kulit yang iritasi, meredakan kemerahan, dan mempercepat penyembuhan.",
+      "source": "KOMPASTV",
+      "tips": [
+        "Cocok untuk kulit sensitif",
+        "Bisa digunakan setelah eksfoliasi",
+        "Bagus untuk kulit stres"
+      ],
+      "youtube_link": "https://youtu.be/oQEE4XYbFyo?si=vrXGiexk-76J81JL"
+    },
+    {
+      "keywords": [
+        "squalane",
+        "squalene",
+        "oil",
+        "melembapkan"
+      ],
+      "title": "Manfaat Squalane untuk Kulit",
+      "response": "Squalane adalah oil ringan yang menyerupai sebum alami kulit, membantu melembapkan tanpa membuat berminyak.",
+      "source": "Green People UK",
+      "tips": [
+        "Bisa digunakan semua jenis kulit",
+        "Gunakan sebagai langkah terakhir",
+        "Efektif untuk kulit kering"
+      ],
+      "youtube_link": "https://youtu.be/f88nZbVxhho?si=Jq0blHf7nfqYlf-z"
+    },
+    {
+      "keywords": [
+        "kojic acid",
+        "asam kojik",
+        "mencerahkan",
+        "brightening"
+      ],
+      "title": "Kegunaan Kojic Acid",
+      "response": "Kojic acid membantu mencerahkan kulit dan mengurangi hiperpigmentasi dengan menghambat pembentukan melanin.",
+      "source": "eBright Skin",
+      "tips": [
+        "Gunakan hanya di malam hari",
+        "Akhiri dengan sunscreen di pagi hari",
+        "Hindari jika kulit sensitif"
+      ],
+      "youtube_link": "https://youtu.be/bUZZw3hwJ2Y?si=VfxENW8IQUVdW6Ldc"
+    },
+    {
+      "keywords": [
+        "lactic acid",
+        "aha",
+        "asam laktat",
+        "eksfoliasi"
+      ],
+      "title": "Manfaat Lactic Acid",
+      "response": "Lactic acid adalah AHA yang membantu mengelupas kulit secara lembut, meningkatkan kelembapan, dan mencerahkan.",
+      "source": "DNY Skincare",
+      "tips": [
+        "Lebih lembut dari glycolic acid",
+        "Cocok untuk kulit sensitif",
+        "Gunakan 2-3x seminggu"
+      ],
+      "youtube_link": "https://youtu.be/1Rg8JUkZGto?si=sL4bgKSqKUKO4_Da"
+    },
+    {
+      "keywords": [
+        "salicylic acid",
+        "bha",
+        "asam salisilat",
+        "jerawat"
+      ],
+      "title": "Manfaat Salicylic Acid",
+      "response": "Salicylic acid adalah BHA yang bisa menembus pori dan mengangkat minyak, cocok untuk kulit berjerawat.",
+      "source": "Alodokter",
+      "tips": [
+        "Gunakan 2-3x seminggu",
+        "Cocok untuk kulit berminyak",
+        "Jangan digunakan saat hamil"
+      ],
+      "youtube_link": "https://youtu.be/fl_DgryffcQ?si=6WKKA-PGMTQQgDIf"
+    },
+    {
+      "keywords": [
+        "glutathione",
+        "pemutih",
+        "mencerahkan",
+        "skin whitening"
+      ],
+      "title": "Fungsi Glutathione untuk Kulit",
+      "response": "Glutathione adalah antioksidan yang bisa membantu mencerahkan kulit dari dalam, tapi harus digunakan hati-hati.",
+      "source": "Saddam Ismail",
+      "tips": [
+        "Lebih aman dalam bentuk topikal",
+        "Konsultasi ke dokter jika ingin konsumsi",
+        "Gunakan sunscreen saat menggunakan"
+      ],
+      "youtube_link": "https://youtu.be/aVvXRG7Eh4w?si=7FVO0fMnA3Sge5Z5"
+    },
+    {
+      "keywords": [
+        "pepaya",
+        "papaya",
+        "enzim",
+        "scrub alami"
+      ],
+      "title": "Manfaat Masker Pepaya untuk Kulit",
+      "response": "Pepaya mengandung enzim papain yang membantu mengelupas kulit secara alami dan mencerahkan.",
+      "source": "Amalia Novianti",
+      "tips": [
+        "Gunakan 1x seminggu",
+        "Hindari jika alergi terhadap lateks",
+        "Cuci bersih setelah 10-15 menit"
+      ],
+      "youtube_link": "https://youtu.be/zB1Pfegm_bo?si=USgKh3S6vgXG_eOk"
+    },
+    {
+      "keywords": [
+        "aloe vera",
+        "lidah buaya",
+        "menenangkan",
+        "soothing"
+      ],
+      "title": "Khasiat Aloe Vera untuk Kulit",
+      "response": "Aloe vera memiliki sifat anti-inflamasi dan melembapkan, cocok untuk menenangkan kulit iritasi atau terbakar sinar matahari.",
+      "source": "Nihao Indonesia",
+      "tips": [
+        "Gunakan gel murni",
+        "Simpan di kulkas untuk efek dingin",
+        "Cocok untuk semua jenis kulit"
+      ],
+      "youtube_link": "https://youtu.be/oOZ1BA1vwxI?si=nRo5nrB3K8CRy8Yb"
+    },
+    {
+      "keywords": [
+        "kusam",
+        "kusam",
+        "kering",
+        "kering",
+        "kering",
+        "kering......"
+      ],
+      "title": "Mengatasi Kulit Kusam",
+      "response": "Kulit kusam bisa disebabkan oleh penumpukan sel kulit mati, dehidrasi, atau paparan polusi. Gunakan eksfoliasi ringan dan serum vitamin C.",
+      "source": "Kata Dokter",
+      "tips": [
+        "Eksfoliasi 1-2x seminggu",
+        "Gunakan serum vitamin C di pagi hari",
+        "Jaga kelembapan kulit"
+      ],
+      "youtube_link": "https://youtu.be/hQSGmkH-Rao?si=dVunBuwegTsqoIz0"
+    },
+    {
+      "keywords": [
+        "komedo",
+        "blackhead",
+        "whitehead",
+        "pori",
+        "pori tersumbat"
+      ],
+      "title": "Cara Menghilangkan Komedo",
+      "response": "Komedo terbentuk dari penyumbatan pori oleh minyak dan sel kulit mati. Gunakan BHA (salicylic acid) untuk membersihkan dalam pori.",
+      "source": "Kata Dokter",
+      "tips": [
+        "Gunakan salicylic acid 1-2x seminggu",
+        "Jangan memencet komedo",
+        "Gunakan clay mask untuk menyerap minyak"
+      ],
+      "youtube_link": "https://youtu.be/9QJPlAWF2VQ?si=62E13VSO8RS1jIW3"
+    },
+    {
+      "keywords": [
+        "bekas jerawat",
+        "scar",
+        "bopeng",
+        "hiperpigmentasi"
+      ],
+      "title": "Cara Menghilangkan Bekas Jerawat",
+      "response": "Bekas jerawat bisa berupa hiperpigmentasi atau bopeng. Gunakan produk dengan AHA/BHA, vitamin C, atau retinol untuk mempercepat regenerasi.",
+      "source": "Alodokter",
+      "tips": [
+        "Gunakan sunscreen setiap hari",
+        "Coba serum dengan niacinamide",
+        "Konsultasi ke dermatolog untuk perawatan intensif"
+      ],
+      "youtube_link": "https://youtu.be/bDBQBPeLkZg?si=ekfFCISjzWWUTWBo"
+    },
+    {
+      "keywords": [
+        "jerawat batu",
+        "nodular acne",
+        "kistik",
+        "jerawat besar"
+      ],
+      "title": "Mengatasi Jerawat Batu",
+      "response": "Jerawat batu adalah jerawat dalam yang meradang. Jangan dipencet dan segera konsultasi ke dokter kulit untuk pengobatan yang tepat.",
+      "source": "Gue Sehat",
+      "tips": [
+        "Jangan memencet atau menggaruk",
+        "Gunakan obat sesuai resep dokter",
+        "Hindari produk yang menyumbat pori"
+      ],
+      "youtube_link": "https://youtu.be/bd7QeQQ390E?si=--GxIVpV23DBw0IU"
+    },
+    {
+      "keywords": [
+        "jerawat hormonal",
+        "hormon",
+        "menstruasi",
+        "pcos"
+      ],
+      "title": "Mengatasi Jerawat Hormonal",
+      "response": "Jerawat hormonal muncul karena perubahan hormon, biasanya menjelang menstruasi. Perawatan skincare saja tidak cukup, perlu penanganan medis.",
+      "source": "dr. Richard Lee, MARS",
+      "tips": [
+        "Gunakan skincare ringan saat jerawat aktif",
+        "Konsultasi ke dokter kulit atau ginekolog",
+        "Jaga pola makan dan tidur"
+      ],
+      "youtube_link": "https://youtu.be/W3VXT3wd4VM?si=glnpiekz0yvY0DTK"
+    },
+    {
+      "keywords": [
+        "flek hitam",
+        "flek",
+        "hiperpigmentasi",
+        "dark spot"
+      ],
+      "title": "Cara Menghilangkan Flek Hitam",
+      "response": "Flek hitam bisa disebabkan oleh jerawat, sinar matahari, atau usia. Gunakan produk dengan bahan mencerahkan seperti vitamin C, kojic acid, atau retinol.",
+      "source": "Kata Dokter",
+      "tips": [
+        "Gunakan sunscreen setiap hari",
+        "Coba serum dengan niacinamide atau AHA",
+        "Konsultasi ke dermatolog jika flek tidak membaik"
+      ],
+      "youtube_link": "https://youtu.be/dfn1LD2T1ZM?si=cxvFWgZUzKscQBJ8"
+    },
+    {
+      "keywords": [
+        "kulit belang",
+        "hiperpigmentasi",
+        "warna tidak merata"
+      ],
+      "title": "Mengatasi Kulit Belang",
+      "response": "Kulit belang bisa disebabkan oleh paparan sinar matahari tidak merata atau hiperpigmentasi. Gunakan sunscreen dan produk pencerah.",
+      "source": "Pauline Wahyuni",
+      "tips": [
+        "Gunakan sunscreen di semua area kulit",
+        "Coba serum dengan vitamin C",
+        "Hindari paparan sinar matahari berlebih"
+      ],
+      "youtube_link": "https://youtu.be/JvNbMW14v8E?si=AkM_ilryWTXObfG_"
+    },
+    {
+      "keywords": [
+        "kulit gatal",
+        "iritasi",
+        "gatal",
+        "alergi"
+      ],
+      "title": "Mengatasi Kulit Gatal",
+      "response": "Kulit gatal bisa disebabkan oleh alergi, iritasi, atau kondisi kulit seperti eksim. Hindari produk yang menyebabkan iritasi.",
+      "source": "Hello Sehat",
+      "tips": [
+        "Gunakan produk bebas parfum",
+        "Hindari air panas saat mandi",
+        "Konsultasi ke dokter jika gatal tidak berhenti"
+      ],
+      "youtube_link": "https://youtu.be/-rmolnIXKaA?si=KpN7ovq7bgFLKoPJ"
+    },
+    {
+      "keywords": [
+        "eksim",
+        "eczema",
+        "peradangan",
+        "gatal",
+        "bersisik"
+      ],
+      "title": "Mengatasi Eksim",
+      "response": "Eksim adalah kondisi peradangan kulit yang menyebabkan gatal, kemerahan, dan bersisik. Perawatan memerlukan obat dari dokter.",
+      "source": "Kata Dokter",
+      "tips": [
+        "Gunakan moisturizer berat",
+        "Hindari pemicu seperti sabun keras",
+        "Konsultasi ke dokter kulit untuk pengobatan"
+      ],
+      "youtube_link": "https://youtu.be/j2qbEt94-xg?si=mG10glOqoZetECei"
+    },
+    {
+      "keywords": [
+        "psoriasis",
+        "kulit menebal",
+        "bersisik",
+        "kronis"
+      ],
+      "title": "Mengenai Psoriasis",
+      "response": "Psoriasis adalah kondisi autoimun yang menyebabkan kulit menebal dan bersisik. Ini kondisi kronis yang perlu penanganan medis.",
+      "source": "National Hospital Surabaya",
+      "tips": [
+        "Gunakan pelembap secara rutin",
+        "Hindari stres dan pemicu",
+        "Ikuti pengobatan dari dokter"
+      ],
+      "youtube_link": "https://youtu.be/SBS1Fx7UM7w?si=Ru6nJcriU1KooXmr"
+    },
+    {
+      "keywords": [
+        "kulit terbakar",
+        "sunburn",
+        "panas",
+        "terbakar sinar"
+      ],
+      "title": "Mengatasi Kulit Terbakar Sinar Matahari",
+      "response": "Kulit terbakar terasa panas, merah, dan nyeri. Segera dinginkan kulit dan gunakan produk yang menenangkan.",
+      "source": "Gue Sehat",
+      "tips": [
+        "Gunakan kompres dingin",
+        "Aplikasikan aloe vera atau moisturizer",
+        "Minum banyak air untuk hidrasi"
+      ],
+      "youtube_link": "https://youtu.be/34o-dxnEPeE?si=ao3c4nqL6Ne03Riu"
+    }
+  ],
+  "welcome_messages": [
+    {
+      "time_range": {
+        "start": 5,
+        "end": 10
+      },
+      "message": "Selamat pagi! ✨ Aku GlowBot, asisten skincare kamu. Ada pertanyaan tentang perawatan kulit pagi ini?"
+    },
+    {
+      "time_range": {
+        "start": 10,
+        "end": 15
+      },
+      "message": "Hai! 🌞 Selamat siang! Aku GlowBot, siap bantu kamu jaga kesehatan kulit hari ini. Mau tanya apa?"
+    },
+    {
+      "time_range": {
+        "start": 15,
+        "end": 18
+      },
+      "message": "Hai kamu! 🌅 Selamat sore! Aku GlowBot, kamu butuh tips skincare sore ini?"
+    },
+    {
+      "time_range": {
+        "start": 18,
+        "end": 24
+      },
+      "message": "Selamat malam! 🌙 Aku GlowBot. Waktunya perawatan kulit malam nih, ada yang mau kamu tanyakan?"
+    },
+    {
+      "time_range": {
+        "start": 0,
+        "end": 5
+      },
+      "message": "Ups, kamu masih melek? 🌃 Aku GlowBot, selalu siap bantu kamu kapan pun. Mau tanya soal skincare?"
+    }
+  ],
+  "quick_questions": [
+    "Apa itu sunscreen?",
+    "Cara mengatasi jerawat?",
+    "Perawatan kulit kering?",
+    "Apa itu vitamin C untuk kulit?",
+    "Cara mengecilkan pori-pori?",
+    "Kegunaan niacinamide?",
+    "Kenapa harus pakai moisturizer?",
+    "Apa itu double cleansing?",
+    "Manfaat retinol?",
+    "Cara menghilangkan dark spot?",
+    "Perawatan kulit sensitif?",
+    "Cara menggunakan serum?",
+    "Rutinitas skincare pagi?",
+    "Rutinitas skincare malam?",
+    "Apa itu hyaluronic acid?",
+    "Cara mengatasi kulit kusam?",
+    "Cara menghilangkan komedo?",
+    "Cara menghilangkan bekas jerawat?",
+    "Cara mengatasi jerawat batu?",
+    "Cara mengatasi jerawat hormonal?",
+    "Cara menghilangkan flek hitam?",
+    "Cara mengatasi kulit belang?",
+    "Cara mengatasi kulit gatal?",
+    "Cara mengatasi eksim?",
+    "Cara mengatasi psoriasis?",
+    "Cara mengatasi kulit terbakar sinar matahari?"
+  ]
+}

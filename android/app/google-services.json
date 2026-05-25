@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85041132278",
+    "project_id": "glowmate-b9f50",
+    "storage_bucket": "glowmate-b9f50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85041132278:android:fa50cf950ce359cd24b2d7",
+        "android_client_info": {
+          "package_name": "com.example.glowmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85041132278-7or9cla6uqsdgdfibmmhqfhp48kesc9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glowmate",
+            "certificate_hash": "b3f9527c5b1e2dbc00e6a056db93928af878e7e6"
+          }
+        },
+        {
+          "client_id": "85041132278-phbamd2cik3p2tuoohsfio0qahudold6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHD4RZrxlYapXrk7HNCff7HJqUQUNmZE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85041132278-n52g56e6ansuuuojsop67lep11bv1akv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

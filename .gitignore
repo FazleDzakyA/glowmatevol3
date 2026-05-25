@@ -1,0 +1,69 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code - Kita biarkan .vscode karena bisa berguna untuk tim
+# Jika ingin sembunyikan, uncomment baris ini:
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# 🔥 FILE SENSITIF — JANGAN COMMIT!
+.env
+firebase_options.dart
+**/*.key
+**/*.pem
+**/*.jks
+**/*.keystore
+**/secrets.yaml
+**/config.json
+
+# 📁 Direktori yang sebaiknya tidak di-commit
+node_modules/
+build/
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+ios/Runner.xcworkspace/contents.xcworkspacedata
+
+# 🎮 Game Assets (opsional)
+assets/animations/
+assets/sounds/
+
+# 🧪 Test Files (opsional)
+test_data/

@@ -1,0 +1,70 @@
+name: glowmate
+description: "A beauty tracking & tutorial app."
+publish_to: "none" # Karena ini aplikasi privat/internal
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 📦 State Management & UI
+  provider: ^6.1.2
+  table_calendar: ^3.1.2
+  
+  # ✅ GAMBAR NETWORK (URL) - Penting untuk Channel & Profile Image
+  cached_network_image: ^3.4.1 
+  
+  # 📺 Video Player
+  youtube_player_flutter: ^9.1.3
+
+  # 🔥 Firebase Core & Services
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.6.0
+
+  # 🔵 Auth & Local Storage
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.3.2
+  path_provider: ^2.1.4
+  
+  # ✅ PICKER GAMBAR (Lokal/Galeri)
+  image_picker: ^1.1.2
+  
+  # 🌐 Network Request
+  http: ^1.1.0
+  
+  # 🚀 Utilities
+  url_launcher: ^6.3.1 
+
+  # 📷 Kamera & AI Face Detection
+  camera: ^0.10.6
+  google_mlkit_face_detection: ^0.13.2 
+  google_mlkit_commons: ^0.11.1
+
+  # 🤖 AI Chatbot (Gemini)
+  google_generative_ai: ^0.4.3
+  
+  # ⚙️ Environment Variables
+  flutter_dotenv: ^5.2.1
+  
+  # 🌐 Webview (Jika butuh embed web content)
+  flutter_inappwebview: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # ✅ PASTIKAN FOLDER-FOLEDER INI ADA DI ROOT PROJECT
+  assets:
+    - .env
+    - assets/icons/       # Wajib ada file glowmate_icon.png di sini
+    - assets/images/      # Bisa kosong dulu jika belum ada gambar
+    - assets/animations/  # Bisa kosong dulu jika belum ada animasi
+    - assets/data/        # Bisa kosong dulu
